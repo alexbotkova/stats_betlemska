@@ -1,4 +1,4 @@
-# PDF Receipt Analysis – Betlémská Statistics Project
+# Betlémská Statistics Project
 
 This repository contains a data analysis project focused on extracting and analyzing receipt data from a structured PDF file (`betlemska.pdf`). 
 
